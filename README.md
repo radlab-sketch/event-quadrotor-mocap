@@ -16,7 +16,7 @@ An example notebook hosted on Google Colaboratory can be found at
 https://colab.research.google.com/drive/1GwQ6ItHWtayy6bV5cfkPfJjMEYMQ0n9C?usp=sharing
 
 ## Video
-[![Video Screencap](<img src = "thumbnail.png">)](https://player.vimeo.com/video/690342319?h=15d1e44144)
+[![Video Screencap](<img src = "https://github.com/radlab-sketch/event-quadrotor-mocap/blob/main/thumbnail.png">)](https://player.vimeo.com/video/690342319?h=15d1e44144)
 
 ## Dataset
 The dataset procured for and used in this work can be found at
