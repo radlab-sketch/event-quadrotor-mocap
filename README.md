@@ -1,4 +1,4 @@
-# Event-based Motion Capture System for Online Multi-Quadrotor Motion Planning
+# Event-based Motion Capture System for Online Multi-Quadrotor Localization and Tracking
 
 by
 Craig Iaboni,
